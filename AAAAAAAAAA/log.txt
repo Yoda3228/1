@@ -1,0 +1,104 @@
+06/04/2021 12:28:16 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:28:16 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:29:10 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:29:10 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:30:09 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:30:09 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:30:38 PM - INFO - ***Evolving 10 generations with population 20***
+06/04/2021 12:30:38 PM - INFO - ***Doing generation 1 of 10***
+06/04/2021 12:32:41 PM - INFO - ***Evolving 3 generations with population 5***
+06/04/2021 12:32:41 PM - INFO - ***Doing generation 1 of 3***
+06/04/2021 12:34:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/04/2021 12:34:02 PM - INFO - ***Doing generation 1 of 3***
+06/04/2021 04:42:26 PM - INFO - ***Evolving 3 generations with population 5***
+06/04/2021 04:42:26 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 05:50:42 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 05:50:42 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 05:51:28 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 05:51:28 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 05:54:40 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 05:54:40 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 05:55:04 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 05:55:04 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 05:57:36 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 05:57:36 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:09:32 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:09:32 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:24:35 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:24:35 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:33:46 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:33:46 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:38:11 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:38:11 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:40:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:40:02 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:40:26 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:40:26 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:49:49 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:49:49 PM - INFO - ***Doing generation 1 of 3***
+06/07/2021 06:51:16 PM - INFO - ***Evolving 3 generations with population 5***
+06/07/2021 06:51:16 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:56:55 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:56:55 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:57:16 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:57:16 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:57:37 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:57:37 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:57:58 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:57:58 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:58:49 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:58:49 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:01:27 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:01:27 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:02:44 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:02:44 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:19:33 AM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:19:33 AM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:04:54 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:04:54 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:05:26 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:05:26 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:06:24 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:06:24 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:07:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:07:02 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:07:26 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:07:26 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:12:01 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:12:01 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:12:16 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:12:16 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:14:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:14:02 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:18:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:18:02 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:18:28 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:18:28 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:22:47 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:22:47 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:25:36 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:25:36 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:26:19 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:26:19 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 01:40:23 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 01:40:23 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:48:11 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:48:11 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:50:47 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:50:47 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:51:02 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:51:02 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 02:51:17 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 02:51:17 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 03:03:28 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 03:03:28 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 03:03:57 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 03:03:57 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 03:06:57 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 03:06:57 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 03:07:26 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 03:07:26 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 03:07:39 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 03:07:39 PM - INFO - ***Doing generation 1 of 3***
+06/08/2021 03:11:08 PM - INFO - ***Evolving 3 generations with population 5***
+06/08/2021 03:11:08 PM - INFO - ***Doing generation 1 of 3***
